@@ -1,0 +1,56 @@
+{
+    "author": "Austin Spark League CACE4",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblepoints",
+    "pebble": {
+        "displayName": "PebblePoints",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/smolpileocoinsW.png",
+                    "name": "score",
+                    "type": "png"
+                },
+                {
+                    "file": "images/arrow-top-3x.png",
+                    "name": "IMAGE_UP_ICON",
+                    "type": "png"
+                },
+                {
+                    "file": "images/arrow-bottom-3x.png",
+                    "name": "IMAGE_DOWN_ICON",
+                    "type": "png"
+                },
+                {
+                    "file": "images/SOMETHING (2).png",
+                    "name": "dice2",
+                    "type": "png"
+                },
+                {
+                    "file": "fonts/Roboto-Regular.ttf",
+                    "name": "FONT_ROBOTO_REGULAR_18",
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/ElegantLux-Mager.otf",
+                    "name": "FONT_ELEGANT_LUX_18",
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "2ee402a1-8d9c-4c2d-9edc-de4fca3e8ced",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
